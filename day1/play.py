@@ -1,5 +1,5 @@
 import gym
-from gym.utils.play import play, PlayPlot
+from gym.utils.play import play
 
 import numpy as np
 
